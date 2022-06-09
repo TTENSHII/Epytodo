@@ -5,7 +5,7 @@
 - Introduction to Web development
 - Build an API
 - Create a TODO app
-- Use node.js and mysql
+- Discover NodeJs and Mysql
 
 ## Routes :city_sunset:
 
