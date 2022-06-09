@@ -29,7 +29,7 @@
 
 ## Install requirements :flower_playing_cards:
 - [NodeJS](https://nodejs.org/en/download/)
-- [MySQL](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04-fr)
+- [MySQL](https://www.mysql.com/fr/downloads/)
 - make an .env file (see below)
 
 ## Install :flags:
