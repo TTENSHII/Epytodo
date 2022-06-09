@@ -12,7 +12,7 @@ connection.connect(function(err) {
         console.error('error connecting: ' + err);
         return;
     }
-    console.log(`connected as : ${connection.config.user} | id is : ${connection.threadId}`);
+    console.log(`connected as : ${connection.config.user}`);
 })
 
 module.exports = connection;
