@@ -28,7 +28,7 @@
 |/todos/:id          |DELETE|YES      |Delete a todo|
 
 ## Install requirements :flower_playing_cards:
-- [NodeJS]([https://nodejs.org/en/download/package-manager/](https://nodejs.org/en/download/))
+- [NodeJS](https://nodejs.org/en/download/)
 - [MySQL](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04-fr)
 - make an .env file (see below)
 
