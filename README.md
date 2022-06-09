@@ -37,7 +37,7 @@
 - Clone repository
 ```
 git clone git@github.com:TTENSHII/Epytodo.git
-cd EpyTodo
+cd Epytodo
 ```
 
 - Install all dependencies:
