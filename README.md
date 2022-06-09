@@ -1,4 +1,4 @@
-# EPYTODO
+<h1 align="center">◦•● EPYTODO ●•◦</h1>
 
 ## Project :bookmark_tabs:
 
